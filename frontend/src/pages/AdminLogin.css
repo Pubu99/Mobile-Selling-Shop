@@ -1,0 +1,322 @@
+.admin-login-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 759px;
+  height: 1080px;
+  object-fit: cover;
+}
+.admin-login-item {
+  position: absolute;
+  top: 0;
+  left: 757px;
+  background-color: var(--white);
+  width: 1163px;
+  height: 1080px;
+}
+.dont-have-an {
+  top: 977px;
+  left: 1190px;
+  font-weight: 300;
+  text-align: left;
+  display: inline-block;
+  width: 222px;
+  height: 17px;
+}
+.dont-have-an,
+.or-continue-with1,
+.sign-up {
+  position: absolute;
+  line-height: 14.5px;
+}
+.sign-up {
+  top: 977px;
+  left: 1403px;
+  text-decoration: underline;
+  font-weight: 500;
+  color: var(--color-limegreen);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 72px;
+  height: 17px;
+  cursor: pointer;
+}
+.or-continue-with1 {
+  top: 273.44px;
+  left: 201.63px;
+  display: inline-block;
+  width: 147.77px;
+  height: 20.72px;
+}
+.frame-child132,
+.sign-up-details-child2,
+.sign-up-details-child3 {
+  position: absolute;
+  top: 283.3px;
+  left: 6.91px;
+  width: 179.53px;
+  height: 1px;
+}
+.frame-child132,
+.sign-up-details-child3 {
+  left: 372.87px;
+}
+.frame-child132 {
+  top: 1.38px;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--white);
+  border: 1px solid var(--color-darkgray-100);
+  box-sizing: border-box;
+  width: 174.01px;
+  height: 59.38px;
+}
+.google1 {
+  position: absolute;
+  top: 0;
+  left: 77.34px;
+  line-height: 44px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 60.76px;
+  height: 60.76px;
+}
+.google-1-icon1 {
+  position: absolute;
+  top: 15.19px;
+  left: 35.91px;
+  width: 30.38px;
+  height: 30.38px;
+  overflow: hidden;
+}
+.rectangle-parent3 {
+  position: absolute;
+  top: 161.58px;
+  left: 92.53px;
+  width: 174.01px;
+  height: 60.76px;
+  cursor: pointer;
+}
+.frame-child133 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--white);
+  border: 1px solid var(--color-darkgray-100);
+  box-sizing: border-box;
+  width: 174.01px;
+  height: 59.38px;
+}
+.facebook-1-icon1 {
+  position: absolute;
+  top: 11.05px;
+  left: 23.48px;
+  width: 35.91px;
+  height: 35.91px;
+  overflow: hidden;
+}
+.facebook1,
+.rectangle-parent4 {
+  position: absolute;
+  height: 60.76px;
+}
+.facebook1 {
+  top: 0;
+  left: 70.43px;
+  line-height: 44px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 81.48px;
+}
+.rectangle-parent4 {
+  top: 162.96px;
+  left: 285.87px;
+  width: 174.01px;
+  cursor: pointer;
+}
+.recover-password1 {
+  position: absolute;
+  top: 620.07px;
+  left: 377.01px;
+  font-size: var(--title-14px-semibold-size);
+  line-height: 14.5px;
+  font-weight: 300;
+  color: var(--color-tomato);
+  display: inline-block;
+  width: 175.39px;
+  height: 20.72px;
+}
+.default1 {
+  position: absolute;
+  height: 100%;
+  width: 28.37%;
+  top: 0;
+  right: 71.63%;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-17xl-5);
+  background-color: var(--color-whitesmoke-100);
+  border: 0.5px solid var(--color-silver-100);
+  box-sizing: border-box;
+}
+.knob-201 {
+  position: absolute;
+  height: 80%;
+  width: 11.35%;
+  top: 10%;
+  right: 87.23%;
+  bottom: 10%;
+  left: 1.42%;
+  border-radius: var(--br-xs);
+  background-color: var(--white);
+  box-shadow: 1px 1px 2px -1px rgba(51, 51, 51, 0.3);
+}
+.default-group,
+.description1 {
+  position: absolute;
+  height: 27.62px;
+}
+.description1 {
+  top: 0;
+  left: calc(50% - 31.07px);
+  letter-spacing: 0.3px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 128.43px;
+}
+.default-group {
+  top: 617.31px;
+  left: 0;
+  width: 194.72px;
+  font-size: var(--title-12px-regular-size);
+  color: var(--color-gray-200);
+}
+.sign-up-details-child4,
+.sign-up-details-child5 {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 342.49px;
+  left: 0;
+}
+.sign-up-details-child5 {
+  top: 477px;
+}
+.button1 {
+  position: absolute;
+  top: 693.26px;
+  left: 0;
+  --primary-color: #645bff;
+  --secondary-color: #fff;
+  --hover-color: #111;
+  --arrow-width: 10px;
+  --arrow-stroke: 2px;
+  box-sizing: border-box;
+  border: 0;
+  border-radius: 20px;
+  color: var(--secondary-color);
+  padding: 1em 1.8em;
+  background: var(--primary-color);
+  display: flex;
+  transition: 0.2s background;
+  align-items: center;
+  gap: 0.6em;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.button1 .arrow-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button1 .arrow {
+  margin-top: 1px;
+  width: var(--arrow-width);
+  background: var(--primary-color);
+  height: var(--arrow-stroke);
+  position: relative;
+  transition: 0.2s;
+}
+
+.button1 .arrow::before {
+  content: "";
+  box-sizing: border-box;
+  position: absolute;
+  border: solid var(--secondary-color);
+  border-width: 0 var(--arrow-stroke) var(--arrow-stroke) 0;
+  display: inline-block;
+  top: -3px;
+  right: 3px;
+  transition: 0.2s;
+  padding: 3px;
+  transform: rotate(-45deg);
+}
+
+.button1:hover {
+  background-color: var(--hover-color);
+}
+
+.button1:hover .arrow {
+  background: var(--secondary-color);
+}
+
+.button1:hover .arrow:before {
+  right: 0;
+}
+
+.login-into-your,
+.welcome-admin {
+  position: absolute;
+  top: 69.05px;
+  left: 129.81px;
+  font-size: var(--font-size-5xl);
+  line-height: 29.16px;
+  display: inline-block;
+  width: 291.39px;
+  height: 41.43px;
+}
+.welcome-admin {
+  top: -7px;
+  left: 63px;
+  font-size: var(--heading-48px-semibold-size);
+  line-height: 44px;
+  font-weight: 600;
+  width: 426px;
+  height: 61px;
+}
+.sign-up-details1 {
+  position: absolute;
+  top: 155px;
+  left: 1063px;
+  width: 552.4px;
+  height: 769.22px;
+}
+.admin-login-inner {
+  position: absolute;
+  top: 52px;
+  left: 1211px;
+  width: 255px;
+  height: 65px;
+  object-fit: cover;
+}
+.admin-login {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--title-16px-medium-size);
+  color: var(--text2);
+  font-family: var(--title-14px-semibold);
+}

@@ -1,0 +1,107 @@
+@import url("https://fonts.googleapis.com/css2?family=Fredoka+One:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Paaji:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --body-m: Inter;
+  --font-baloo-paaji: "Baloo Paaji";
+  --font-fredoka-one: "Fredoka One";
+  --title-14px-semibold: Poppins;
+
+  /* font sizes */
+  --title-16px-medium-size: 16px;
+  --font-size-77xl: 96px;
+  --font-size-xl: 20px;
+  --font-size-5xl: 24px;
+  --heading-48px-semibold-size: 48px;
+  --font-size-26xl: 45px;
+  --title-14px-semibold-size: 14px;
+  --title-12px-regular-size: 12px;
+  --font-size-base-1: 15.1px;
+  --heading-36px-semibold-size: 36px;
+  --font-size-11xl: 30px;
+
+  /* Colors */
+  --white: #fff;
+  --color-gainsboro-100: rgba(217, 217, 217, 0.5);
+  --color-gainsboro-200: rgba(217, 217, 217, 0.2);
+  --text: #fafafa;
+  --color-gray-100: #222;
+  --color-gray-200: #1a1a1a;
+  --color-gray-300: #0f0029;
+  --color-orangered: #f94d1c;
+  --text2: #000;
+  --color-darkslategray-300: #3f3f3f;
+  --color-darkslategray-100: #3d3d3d;
+  --color-darkslategray-200: #303030;
+  --a: #003f62;
+  --secondary-2: #db4444;
+  --secondary: #f5f5f5;
+  --color-whitesmoke-100: #ececec;
+  --button1: #00ff66;
+  --hover-button: #e07575;
+  --color-silver-100: #c9c9c9;
+  --color-silver-200: #bdbdbd;
+  --color-dimgray: #595959;
+  --color-yellowgreen: #9bc14c;
+  --color-brown: #bc2944;
+  --color-darkmagenta: #8131a7;
+  --color-darkslateblue: #2e56a3;
+  --color-darkgreen: #1d5f23;
+  --color-darkgray-200: #afafaf;
+  --color-darkgray-300: #acacac;
+  --color-darkgray-100: #a8a8a8;
+  --color-darkgray-400: #a5a5a5;
+  --color-darkgray-500: #9c9c9c;
+  --color-steelblue: #1b5a7d;
+  --color-crimson: #e42424;
+  --color-orange: #eda415;
+  --color-paleturquoise: #98e5d7;
+  --color-aliceblue: #ddf0fb;
+  --color-tomato: #d93f21;
+  --color-limegreen: #20dc49;
+
+  /* Gaps */
+  --gap-9xl: 28px;
+  --gap-lg: 18px;
+  --gap-2xs: 11px;
+  --gap-smi: 13px;
+  --gap-4xs: 9px;
+  --gap-xs: 12px;
+  --gap-8xl: 27px;
+  --gap-base: 16px;
+  --gap-5xs: 8px;
+  --gap-161xl: 180px;
+  --gap-3xl: 22px;
+  --gap-170xl: 189px;
+  --gap-3xs: 10px;
+  --gap-36xl: 55px;
+  --gap-32xl: 51px;
+  --gap-41xl: 60px;
+  --gap-11xl: 30px;
+  --gap-653xl: 672px;
+  --gap-xl: 20px;
+  --gap-9xs: 4px;
+  --gap-5xl: 24px;
+
+  /* Paddings */
+  --padding-9xs: 4px;
+  --padding-xs: 12px;
+
+  /* Border radiuses */
+  --br-31xl: 50px;
+  --br-7xs: 6px;
+  --br-11xs-4: 1.4px;
+  --br-9xs: 4px;
+  --br-5xs: 8px;
+  --br-xs: 12px;
+  --br-17xl-5: 36.5px;
+  --br-8xs: 5px;
+}
